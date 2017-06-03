@@ -1,5 +1,5 @@
-!*.dll
-!*.exe
+!*/bin/*.dll
+!*/bin/*.exe
 /*/obj/*
 *.exe.manifest
 *.vshost.exe
