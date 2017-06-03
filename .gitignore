@@ -1,5 +1,5 @@
-/RoboPiano/obj/*
-*.exe.manifest
-*vshost.exe
 !*.dll
 !*.exe
+/*/obj/*
+*.exe.manifest
+*.vshost.exe
