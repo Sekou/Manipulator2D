@@ -1,0 +1,1 @@
+This program allows to test different motions of a 2d-robotic arm to grasp objects in the 2D scene.
