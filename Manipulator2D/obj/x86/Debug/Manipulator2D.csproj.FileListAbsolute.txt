@@ -1,8 +1,0 @@
-C:\Users\user4\Dropbox\Files\year 2017\projects\programming\manip-learn\Manipulator2D\Manipulator2D\bin\Debug\Manipulator2D.exe
-C:\Users\user4\Dropbox\Files\year 2017\projects\programming\manip-learn\Manipulator2D\Manipulator2D\bin\Debug\Manipulator2D.pdb
-C:\Users\user4\Dropbox\Files\year 2017\projects\programming\manip-learn\Manipulator2D\Manipulator2D\obj\x86\Debug\Manipulator2D.csprojResolveAssemblyReference.cache
-C:\Users\user4\Dropbox\Files\year 2017\projects\programming\manip-learn\Manipulator2D\Manipulator2D\obj\x86\Debug\Manipulator2D.Form1.resources
-C:\Users\user4\Dropbox\Files\year 2017\projects\programming\manip-learn\Manipulator2D\Manipulator2D\obj\x86\Debug\Manipulator2D.Properties.Resources.resources
-C:\Users\user4\Dropbox\Files\year 2017\projects\programming\manip-learn\Manipulator2D\Manipulator2D\obj\x86\Debug\Manipulator2D.csproj.GenerateResource.Cache
-C:\Users\user4\Dropbox\Files\year 2017\projects\programming\manip-learn\Manipulator2D\Manipulator2D\obj\x86\Debug\Manipulator2D.exe
-C:\Users\user4\Dropbox\Files\year 2017\projects\programming\manip-learn\Manipulator2D\Manipulator2D\obj\x86\Debug\Manipulator2D.pdb
