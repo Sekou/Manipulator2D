@@ -1,5 +1,4 @@
+bin/
+obj/
 *.suo
 *.user
-obj
-!bin/*.dll
-!bin/*.exe
